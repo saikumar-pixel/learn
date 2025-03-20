@@ -4,3 +4,5 @@ document.getElementById("parent").addEventListener("click",()=>{
 document.getElementById("child").addEventListener("click",()=>{
     console.log("child clicked");
 })
+
+console.log("git pull");
